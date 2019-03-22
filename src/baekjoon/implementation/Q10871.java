@@ -19,8 +19,5 @@ public class Q10871 {
 			}
 		}
 		scanner.close();
-		
-		
 	}
-
 }
